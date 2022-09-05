@@ -3,7 +3,7 @@
 I'm Artur, a bachelor's degree student in [Computational Mathematics and Data Analytics](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1345740824235), interested in DeepLearning and Natural Langunge Processing.
 
 ## Experience
-- Software Engineer at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage")
+- Software Engineer at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage")  
   🗓️ 09 2022 -- _present_
 
 - Research Assistant at [Group of Interactive Coding of Images (GICI)](https://gici.uab.cat/GiciWebPage/ "GICI's Homepage")  
