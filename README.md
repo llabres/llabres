@@ -18,6 +18,7 @@ I'm Artur, a bachelor's degree student in [Computational Mathematics and Data An
   
    - Document Analysis Combining Vision and Natural Language.
    - Developing Multi-Task Models for Document Analysis: Document Classification, Information Extraction, DocVQA.
+   - Read the thesis [here](https://github.com/llabres/llabres/blob/main/Multi_Task_Document_Understanding_using_Layout_and_Text_to_Text_Transformer.pdf "Multi-Task Document Understanding using Layout+Text to Text Transformer")
 
 - Lecturer at [SCN2 Python Course for Scientific Programming](https://llacorp.github.io/Python-Course-for-Scientific-Programming/ "GitHub repo with the course material")  
   🗓️ 02 2021 (_first edition_) and 03 2022 (_second edition_)  
