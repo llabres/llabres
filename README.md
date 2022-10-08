@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Artur, a bachelor's degree student in [Computational Mathematics and Data Analytics](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1345740824235), interested in DeepLearning and Natural Langunge Processing.
+I'm Art, a software engineer and researcher at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage") working in the Technology Transfer Unit, applying cutting edge reasearch into production.
 
 ## Experience
 - Software Engineer at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage")  
@@ -24,3 +24,7 @@ I'm Artur, a bachelor's degree student in [Computational Mathematics and Data An
   🗓️ 02 2021 (_first edition_) and 03 2022 (_second edition_)  
   
    - Lecturer in an introductory Python course for scientific programming for members of the _Societat Catalana de Nanociència i Nanotecnologia_.
+
+## Education
+- [Bachelor's Degree in Computational Mathematics and Data Analytics](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1345740824235) at [Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html)  
+🗓️ 09 2018 -- 07 2022
