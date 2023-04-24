@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Art, a software engineer and researcher at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage") working in the Technology Transfer Unit, applying cutting edge reasearch into production.
+I'm Art, a software engineer and researcher at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage").
 
 ## Experience
 - Software Engineer at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage")  
