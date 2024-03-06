@@ -1,17 +1,20 @@
 ### Hi there 👋
 
-I'm Art, a software engineer and researcher at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage").
+I'm Artemis, an AI research engineer at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage").
 
 ## Experience
-- Software Engineer at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage")  
+- Research Engineer at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage")  
   🗓️ 09 2022 -- _present_
+  - Research Multimodal Transformers for Document Question Answering.
+  - Visual and Language Fusion for Automatic Inventory of Libraries and Supermarkets.
 
 - Research Assistant at [Group of Interactive Coding of Images (GICI)](https://gici.uab.cat/GiciWebPage/ "GICI's Homepage")  
-  🗓️ 01 2021 -- _present_  
+  🗓️ 01 2021 -- 11 2023 
   
    - Research and Development of Coding Techniques for Satellite Imagery.
    - Development of Deep Learning Algorithms for Remote Sensing.
    - Collaborated on the Open-Source Python Library [Experiment Notebook (enb)](https://github.com/miguelinux314/experiment-notebook "enb's GitHub repo")
+   - Designed and trained machine learning algorithms for animal welfare in the Clearfarm project.
  
 - Bachelor's Thesis Student at [Computer Vision Center (CVC)](http://www.cvc.uab.es/ "CVC's Homepage")  
   🗓️ 11 2021 -- 07 2022
@@ -26,5 +29,8 @@ I'm Art, a software engineer and researcher at [Computer Vision Center (CVC)](ht
    - Lecturer in an introductory Python course for scientific programming for members of the _Societat Catalana de Nanociència i Nanotecnologia_.
 
 ## Education
+- [Master’s Degree in Research and Innovation in Computer based Science and Engineering](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information-1096480962610.html?param1=1345875382068) at [Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html)  
+🗓️ 09 2023 -- 07 2024
+
 - [Bachelor's Degree in Computational Mathematics and Data Analytics](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1345740824235) at [Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html)  
 🗓️ 09 2018 -- 07 2022
